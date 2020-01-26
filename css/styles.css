@@ -64,6 +64,11 @@ a {
   width: 50%;
 }
 
+.short-intro {
+  width: 45%;
+  margin: auto;
+}
+
 .pro {
   text-decoration: underline;
 }
@@ -86,7 +91,12 @@ a {
 .bottom-cloud {
   position: absolute;
   left: 250px;
-  bottom: 300px;
+  bottom: 250px;
+}
+
+.mountain {
+  width: 50%;
+
 }
 
 .product-img {
