@@ -34,7 +34,7 @@ hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
   width: 4%;
-  margin: 100px auto;
+  margin: 80px auto;
 }
 
 a {
@@ -64,7 +64,7 @@ a {
   width: 50%;
 }
 
-.short-intro {
+.title-shorttext {
   width: 45%;
   margin: auto;
 }
@@ -75,6 +75,11 @@ a {
 
 .intro {
   width: 30%;
+  margin: auto;
+}
+
+.contact-shorttext {
+  width: 50%;
   margin: auto;
 }
 
@@ -146,7 +151,7 @@ a {
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 1.25rem;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
